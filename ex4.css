@@ -1,0 +1,54 @@
+.col-md-2{
+	border:2px solid white;
+    padding:20px;
+    margin-top: 10px;
+}
+.col-md-5{
+	height: 400px;
+    margin-top: 10px;
+    margin-left:80px; 
+}
+img[src="prof.png"]{
+	height: 80px;
+	width: 80px;
+	margin-top: 20px;
+}
+img[src="p2.jpg"]{
+	height: 80px;
+	width: 80px;
+	margin-top: 20px;
+}
+img[src="pr3.jpg"]{
+	height: 80px;
+	width: 80px;
+	margin-top: 20px;
+}
+img[src="prpf.png"]{
+	height: 80px;
+	width: 80px;
+	margin-top: 20px;
+}
+.a1{
+	position: relative;
+	left:100px;
+	bottom: 80px;
+}
+.a2{
+	position: relative;
+	left: 100px;
+	bottom: 90px;
+}
+.a3{
+	position: relative;
+	left: 100px;
+	bottom: 70px;
+}.a4{
+	position: relative;
+	left: 100px;
+	bottom: 100px;
+}
+.a5{
+	position: relative;
+	left: 340px;
+	bottom: 20px;
+}

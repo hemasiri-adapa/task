@@ -1,0 +1,40 @@
+#abc{
+	height: 60px;
+	margin-top: 15px;
+	background: skyblue;
+	padding-left: 60px;
+}
+#bbb{
+	height: 60px;
+	margin-top: 15px;
+    background: skyblue;
+    padding-left: 60px;
+}
+#ccc{
+	height: 60px;
+	margin-top: 15px;
+    background: skyblue;
+    padding-left: 60px;
+}
+#ddd{
+	height: 60px;
+	margin-top: 15px;
+    background: skyblue;
+    padding-left: 60px;
+}
+#id{
+	color: black;
+}
+img{
+	height: 30px;
+	width: 30px;
+	border-radius: 100%;
+	float: right;
+	margin-left:10px;
+	margin-bottom:60px;
+}
+#w{
+	float: right;
+	margin-left: 200px;
+	margin-bottom: px;
+}
